@@ -1,0 +1,11 @@
+﻿ID_Cliente;Codigo_Cliente;Nombre;Estado Marital;Genero;Ingreso Anual;Numero de Hijos;Hijos en Casa;Educacion;Ocupacion;Continente;Ciudad;Estado;Tipo Cliente;Pais
+16;11015;Young, Chloe;S;F;30000;1;0;Partial College;Skilled Manual;North America;Burbank;California;Person;United States
+17;11016;Hill, Wyatt;M;M;30000;0;0;Partial College;Skilled Manual;North America;Imperial Beach;California;Person;United States
+8;11007;Mehta, Marco;M;M;60000;3;3;Bachelors;Professional;Asia;Warrnambool;Victoria;Person;Australia
+9;11008;Verhoff, Rob;S;F;60000;4;4;Bachelors;Professional;Asia;Bendigo;Victoria;Person;Australia
+12;11011;Lu, Curtis;M;M;60000;4;4;Bachelors;Professional;Asia;East Brisbane;Queensland;Person;Australia
+7;11006;Alvarez, Janet;S;F;70000;1;0;Bachelors;Professional;Asia;Matraville;New South Wales;Person;Australia
+6;11005;Ruiz, Julio;S;M;70000;1;0;Bachelors;Professional;Asia;East Brisbane;Queensland;Person;Australia
+10;11009;Carlson, Shannon;S;M;70000;0;0;Bachelors;Professional;Asia;Hervey Bay;Queensland;Person;Australia
+11;11010;Suarez, Jacquelyn;S;F;70000;1;0;Bachelors;Professional;Asia;East Brisbane;Queensland;Person;Australia
+18;11018;Mendoza, Julio;S;M;40000;2;0;Partial College;Skilled Manual;North America;Burbank;California;Person;United States
